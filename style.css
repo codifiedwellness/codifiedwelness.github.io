@@ -1,0 +1,26 @@
+body {
+    background: url("assets/img/background.jpg") #404a6d no-repeat center center;
+    background-size: cover;
+    background-image: url('assets/img/background.jpg');
+    height: 100vh
+}
+
+.row {
+    color: beige;
+}
+
+/* #intro {
+    background-image: url("assets/img/background.jpg");
+    height: 100vh;
+  }
+
+  /* Height for devices larger than 576px */
+  @media (min-width: 992px) {
+    #intro {
+      margin-top: -58.59px;
+    }
+  }
+
+  .navbar .nav-link {
+    color: #fff !important;
+  } */
