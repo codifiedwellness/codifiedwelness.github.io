@@ -2,25 +2,10 @@ body {
     background: url("assets/img/background.jpg") #404a6d no-repeat center center;
     background-size: cover;
     background-image: url('assets/img/background.jpg');
-    height: 100vh
+    height: 100vh;
+    backdrop-filter: blur(3px);
 }
 
 .row {
-    color: beige;
+    color: #ffffff;
 }
-
-/* #intro {
-    background-image: url("assets/img/background.jpg");
-    height: 100vh;
-  }
-
-  /* Height for devices larger than 576px */
-  @media (min-width: 992px) {
-    #intro {
-      margin-top: -58.59px;
-    }
-  }
-
-  .navbar .nav-link {
-    color: #fff !important;
-  } */
